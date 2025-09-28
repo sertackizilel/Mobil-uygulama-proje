@@ -1,2 +1,3 @@
 # Mobil-uygulama-proje
-Mobil uygulama projesi
+Kalori hesabı yapan mobil uygulama 
+
